@@ -1,0 +1,6 @@
+# VsCode mumbo jumbo
+.vscode
+
+# Dotnet stuff
+bin/
+obj/
